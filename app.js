@@ -4,5 +4,5 @@ const max = (arr) => Math.max(arr);
  console.log('enough');
 
  document.querySelector('button').addEventListener('click',() => {
-
+     console.log('work');
  });
